@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henri Junior</h1>
-<h3 align="center">A passionate FullStack stack developer from Ivory Coast</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk1Yzk1MmluZWVwNzg4ZHJxamN2Y2k3a3gwZm9vcTc3eXRyY2thciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" >
+<h3 align="center">A passionate FullStack developer from Ivory Coast</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackinf0" alt="hackinf0" /></a> </p>
 
