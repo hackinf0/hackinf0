@@ -2,8 +2,6 @@
 <h3 align="center">A passionate FullStack developer from Ivory Coast</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackinf0" alt="hackinf0" /></a> </p>
-
 - 🔭 I’m currently working on [WIZDEALS](wizdeals.in)
 
 - 🌱 I’m currently learning **Java,Spring boot,PostgreSQL and Docker.**
