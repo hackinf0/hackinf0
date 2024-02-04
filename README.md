@@ -2,13 +2,13 @@
 <h3 align="center">A passionate FullStack developer from Ivory Coast</h3>
 
 
-- 🔭 I’m currently working on <a href='wizdeals.in'> **wizdeals.in** </a>
+- 🔭 I’m currently working on [wizdeals.in](https://wizdeals.in).
 
 - 🌱 I’m currently learning **Java,Spring boot,PostgreSQL and Docker.**
 
-- 👨‍💻 All of my projects are available at   **hackinfo.xyz**   
+- 👨‍💻 All of my projects are available at  [**hackinfo.xyz**](https://hackinfo.xyz). 
 
-- 📝 I regularly write articles on  **youtube.com/hackinfo**  
+- 📹 I regularly post videos on  [YouTube](https://www.youtube.com/hackinfo). 
 
 - 💬 Ask me about **React Native, MERN**
 
