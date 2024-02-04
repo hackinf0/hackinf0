@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer from Ivory Coast</h3>
 
 
-- 🔭 I’m currently working on [WIZDEALS](wizdeals.in)
+- 🔭 I’m currently working on [wizdeals.in](wizdeals.in)
 
 - 🌱 I’m currently learning **Java,Spring boot,PostgreSQL and Docker.**
 
