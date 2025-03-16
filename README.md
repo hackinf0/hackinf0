@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Java,Spring boot,PostgreSQL and Docker.**
 
-- 👨‍💻 All of my projects are available at  [**hackinfo.xyz**](https://hackinfo.xyz). 
+- 👨‍💻 All of my projects are available at  [**henrijunior.info**](https://henrijunior.info). 
 
 - 📹 I regularly post videos on  [YouTube](https://www.youtube.com/hackinfo). 
 
-- 💬 Ask me about **React Native, MERN**
+- 💬 Ask me about **React Native, MERN stack, NEXT JS...**
 
 - 📫 How to reach me **henrijuniorhouphouet@gmail.com**
 
